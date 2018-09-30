@@ -18,9 +18,8 @@ li{
 
 .nav-pills a {
     color: #fff;
-    float: right;
     margin-right: 10px;
-    margin-left: 100px;
+    margin-left: 0px;
 }
 
 .nav-pills a:hover {
