@@ -12,3 +12,16 @@ Once the user's score is reset after an incorrect guess, the game should restart
 
 ![img app](doggame/public/img/dogpage.png)
 ![img app](doggame/public/img/correctgues.png)
+
+# Technologies used:
+
+### React
+### ES6
+### Bootstrap
+### CSS
+
+# Website
+https://yeiska.github.io/Dog-Clicky-Game-App/
+
+# You can see the app code on the following link
+https://github.com/Yeiska/Dog-Clicky-Game-App
