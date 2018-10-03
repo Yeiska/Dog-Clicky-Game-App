@@ -2,7 +2,7 @@
   "name": "doggame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Yeiska/Dog-Clicky-Game-App",
+  "homepage": "https://yeiska.github.io/Dog-Clicky-Game-App",
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",

@@ -10,8 +10,8 @@ Every time an image is clicked, the images rendered to the page should shuffle t
 
 Once the user's score is reset after an incorrect guess, the game should restart.
 
-![img app](doggame/public/img/dogpage.png)
-![img app](doggame/public/img/correctgues.png)
+![img app](/public/img/dogpage.png)
+![img app](/public/img/correctgues.png)
 
 # Technologies used:
 
