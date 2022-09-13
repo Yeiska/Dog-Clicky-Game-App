@@ -1,62 +1,77 @@
 [
     {
-        "breed": "bulldog",
-        "image": "https://dog.ceo/api/img/bulldog-boston/n02096585_1737.jpg"
+        "id": "1",
+        "breed": "doberman",
+        "image": "https://images.dog.ceo/breeds/doberman/n02107142_18413.jpg"
     },
     {
+        "id": "2",
         "breed": "beagle",
-        "image": "https://dog.ceo/api/img/beagle/n02088364_13050.jpg"
+        "image": "https://images.dog.ceo/breeds/beagle/n02088364_639.jpg"
     },
     {
+        "id": "3",
         "breed": "husky",
-        "image": "https://dog.ceo/api/img/husky/n02110185_14523.jpg"
+        "image": "https://images.dog.ceo/breeds/husky/n02110185_5030.jpg"
     },
     {
+        "id": "4",
         "breed": "maltese",
-        "image": "https://dog.ceo/api/img/maltese/n02085936_10197.jpg"
+        "image": "https://images.dog.ceo/breeds/maltese/n02085936_4396.jpg"
     },
     {
+        "id": "5",
         "breed": "pomeranian",
-        "image": "https://dog.ceo/api/img/pomeranian/n02112018_13636.jpg"
+        "image": "https://images.dog.ceo/breeds/pomeranian/n02112018_2790.jpg"
     },
     {
+        "id": "6",
         "breed": "poodle",
-        "image": "https://dog.ceo/api/img/poodle-miniature/n02113712_1088.jpg"
+        "image": "https://images.dog.ceo/breeds/poodle-miniature/n02113712_243.jpg"
     },
     {
+        "id": "7",
         "breed": "pyrenees",
-        "image": "https://dog.ceo/api/img/pyrenees/n02111500_395.jpg"
+        "image": "https://images.dog.ceo/breeds/pyrenees/n02111500_6835.jpg"
     },
     {
+        "id": "8",
         "breed": "chihuahua",
-        "image": "https://dog.ceo/api/img/chihuahua/n02085620_3409.jpg"
+        "image": "https://images.dog.ceo/breeds/chihuahua/n02085620_1346.jpg"
     },
     {
+        "id": "9",
         "breed": "boxer",
-        "image": "https://dog.ceo/api/img/boxer/n02108089_11687.jpg"
+        "image": "https://images.dog.ceo/breeds/boxer/n02108089_13738.jpg"
     },
     {
+        "id": "10",
         "breed": "chow",
-        "image": "https://dog.ceo/api/img/chow/n02112137_12792.jpg"
+        "image": "https://images.dog.ceo/breeds/chow/n02112137_16520.jpg"
     },
     {
+        "id": "11",
         "breed": "corgi",
-        "image": "https://dog.ceo/api/img/corgi-cardigan/n02113186_1030.jpg"
+        "image": "https://images.dog.ceo/breeds/corgi-cardigan/n02113186_7676.jpg"
     },
     {
+        "id": "12",
         "breed": "mastiff",
-        "image": "https://dog.ceo/api/img/mastiff-bull/n02108422_2052.jpg"
+        "image": "https://images.dog.ceo/breeds/mastiff-tibetan/n02108551_10182.jpg"
     },
     {
+        "id": "13",
         "breed": "sheepdog",
-        "image": "https://dog.ceo/api/img/sheepdog-english/n02105641_12614.jpg"
+        "image": "https://images.dog.ceo/breeds/sheepdog-english/n02105641_727.jpg"
     },
     {
+        "id": "14",
         "breed": "terrier",
-        "image": "https://dog.ceo/api/img/terrier-american/n02093428_10164.jpg"
+        "image": "https://images.dog.ceo/breeds/terrier-lakeland/n02095570_3137.jpg"
     },
     {
+        "id": "15",
         "breed": "shihtzu",
-        "image": "https://dog.ceo/api/img/shihtzu/n02086240_11766.jpg"
+        "image": "https://images.dog.ceo/breeds/shihtzu/n02086240_5042.jpg"
     }
 ]

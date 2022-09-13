@@ -66,6 +66,7 @@ class App extends Component {
                 {
                     this.state.dogs.map(dog => (
                         <DogCard
+                            key={dog.id}
                             breed={dog.breed}
                             image={dog.image}
                             selectDog={this.selectDog}
