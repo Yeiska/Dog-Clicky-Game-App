@@ -3,6 +3,7 @@ import "./Navbar.css";
 
 const Navbar = props => (
     <ul className="nav nav-pills nav-justified">
+        <li>Score: <span style={{ color: "blue" }}>{props.curScore}</span> | Top Score: {props.topScore}</li>
         <div>
             <li>Dog Clicky Game</li>
             <li className={props.message.indexOf('incorrectly') !== -1 ?
@@ -10,7 +11,6 @@ const Navbar = props => (
                 {props.message}  
             </li>
         </div>
-        <li>Score: <span style={{ color: "blue" }}>{props.curScore}</span> | Top Score: {props.topScore}</li>
     </ul>
 );
 
